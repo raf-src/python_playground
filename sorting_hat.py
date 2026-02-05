@@ -10,7 +10,7 @@ import random
 welc_msg = "Welcome to Hogwarts! Come forward and I will put the sorting hat on your head. Answer these questions truthfully and the sorting hat will do the rest.\nLie your way through these questions and you will be sent to the dungeons with the rest of the muggles!\nThe numbers is the game, the sorting hat is not to blame! Let the sorting begin!"
 print(welc_msg)
 
-q_1 = int(input("I wonder..Do you rise at Dawn or do you hide at dusk? \n 1. Dawn \n 2. Dusk \n Enter your answer: "))
+q_1 = int(input("I wonder..Do you rise at Dawn or do you hide at Dusk? \n 1. Dawn \n 2. Dusk \n Enter your answer: "))
 print(q_1)
 
 if q_1 == 1:
